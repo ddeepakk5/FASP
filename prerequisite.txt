@@ -1,0 +1,1 @@
+download buffalo_l and buffalo_sc model for insightface and place them under "2_Fast_Face_Recognition_System/insightface_model/models/" and " 4_attendance_app/insightface_model/models/" directory.
