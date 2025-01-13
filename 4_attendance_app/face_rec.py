@@ -18,9 +18,9 @@ from datetime import datetime
 
 
 # Connect to redis client
-hostname = 'redis-15300.c256.us-east-1-2.ec2.cloud.redislabs.com'
-portnumber = 15300
-password = '7Ua4YbenqD4N7UQR18nX4A9XgRn7xvEN'
+hostname = ''
+portnumber = 
+password = ''
 
 r = redis.StrictRedis(host=hostname,
                     port=portnumber,
